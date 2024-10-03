@@ -12,7 +12,7 @@
 
 - 🔭 I've been working as a senior developer at Grevo since October 2017. I work on the web game (Land & Pirate) and other various related projects.
 
-- 🌱 These days I've been learning to write applications using NextJs, VueJS, PostgreSQL, MySQL and Laravel.
+- 🌱 These days, I've been learning to write applications using NextJs, VueJS, BE Laravel and Database: PostgreSQL, MySQL
 
 
 <!--
